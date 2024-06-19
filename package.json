@@ -1,8 +1,8 @@
 {
   "name": "pattera4322.github.io",
   "version": "0.1.0",
-  "homepage": "https://pattera4322.github.io/pattera4322.github.io",
   "private": true,
+  "homepage": "https://pattera4322.github.io/pattera4322.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
